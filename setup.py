@@ -1,8 +1,5 @@
 [project]
 name = "newara"
-authors = [
-    { name = "ERPGulf", email = "support@ERPGUlf.com"}
-]
 description = " App to accomadate Weighing scale barcode with ERPNext POS"
 requires-python = ">=3.10"
 readme = "README.md"
