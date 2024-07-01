@@ -6,7 +6,6 @@ from setuptools import setup, find_packages
 
 setup(
 	name="newara",
-	version=version,
 	description="Newara",
 	author="E",
 	author_email="support@ERPGulf.com",
