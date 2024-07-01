@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 # get version from __version__ variable in elifapp/__init__.py
-from elifapp import __version__ as version
+
 
 setup(
 	name="newara",
